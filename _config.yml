@@ -2,10 +2,10 @@
 # ============================================================================
 # if your site is serving on https://xxx.github.io, set `baseurl: /`
 # if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: /book
+baseurl: /
 
 # site title
-title: Book
+title: MY BLOG
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
@@ -17,21 +17,18 @@ avatarInfo: "Tokyo tower"
 
 # default variables for post-type page
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: posts
     values:
       layout: post
       comment: true
 
-
 # sass
 # ============================================================================
 sass:
   sass_dir: _sass
   style: compressed
-
 
 # exclude none site related files
 # ============================================================================
@@ -43,12 +40,10 @@ exclude:
   - package-lock.json
   - node_modules
 
-
 # google analytics
 # ============================================================================
 # turn it off -> ga: false
 ga: UA-69579248-1
-
 
 # disqus
 # ============================================================================
