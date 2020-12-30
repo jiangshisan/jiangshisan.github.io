@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: work
 title: "AngularJs"
 date: 2020-12-11
 tags: [AngularJs]
