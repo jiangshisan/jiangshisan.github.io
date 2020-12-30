@@ -1,37 +1,26 @@
----
-layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
----
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+```html
+<center><h1>
+  齐谐
+  </h1></center>
+```
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### 齐谐
 
-## Preview
+> 齐谐者，志怪者也  
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+齐谐，是庄子杜撰的一本专门记录古怪离奇事物的书。如果真的有这本书，还是很想看看的。或许类似山海经。总之我很喜欢这个名字。所以借来命名这个blog。
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+大多数人的一生，都是平淡无奇的。我也不例外，但是我觉得从自己内心主观去看，生活其实是光怪陆离的，或好或坏。拥有生命，然后去认知这个世界，本身就是一件最神奇的事情。
 
-## Getting Started
+### 唯愿留下蛛丝马迹
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+> 寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。
+
+  吾生须臾，蜉蝣于天地，唯愿留下蛛丝马迹。这些记录是不是可以作为有个生命也曾来过这个世间证明呢？至少我是这么想的。
+
+即使，这些都不可以，又有什么所谓呢？这些记录作为自己生命的追溯总是没问题的。
+
+
+
+> 苏子曰：“客亦知夫水与月乎？逝者如斯，而未尝往也；盈虚者如彼，而卒莫消长也。盖将自其变者而观之，则天地曾不能以一瞬；自其不变者而观之，则物与我皆无尽也，而又何羡乎！且夫天地之间，物各有主，苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭。是造物者之无尽藏也，而吾与子之所共食。”
+
