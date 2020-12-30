@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: post-list
+title: All Fragments
+excerpt: "生活杂记"
 comments: false
 ---
