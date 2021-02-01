@@ -1,5 +1,5 @@
 # Site
-title: 齐谐
+title: "齐谐"
 bio: "吾生须臾，蜉蝣于天地。唯愿留下蛛丝马迹。"
 description: "《齐谐》者，志怪者也。"
 reading_time: true
@@ -9,7 +9,7 @@ background: "assets/img/placeholder-big.jpg"
 avatar: "https://avatars.githubusercontent.com/jiangshisan"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: zh_CN
-url: https://jiangshisan.github.io
+url: https://jiangshisan.life
 
 # Jekyll
 permalink: /:title/
